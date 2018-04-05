@@ -1,0 +1,10 @@
+Requests    urllib的升级版本打包了全部功能并简化了使用方法
+   http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
+beautifulsoup 是一个可以从HTML或XML文件中提取数据的Python库.它能够通过你喜欢的转换器实现惯用的文档导航,
+查找,修改文档的方式.
+   http://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#
+LXML  一个HTML解析包 用于辅助beautifulsoup解析网页
+
+pip3 install requests
+pip3 install lxml
+pip3 install beautifulsoup4

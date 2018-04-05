@@ -1,0 +1,105 @@
+brew install uwsgi
+brew install nginx
+yum install uwsgi-plugin-python3
+[uwsgi]
+socket = 127.0.0.1:5000        #socket是uwsgi 进行socket通信的端口
+processes = 4
+threads = 2
+master = true
+pythonpath = /home/admin/test  #指明当前应用程序的项目路径
+module = test                  #module指明uwsgi需要托管的主程序文件名
+callable = app              #callable就是在应用程序中指明的uwsgi需要调用的应用程序,app = Flask(__name__)
+memory-report = true
+pidfile = uwsgi.pid
+daemonize = ./uwsgi.log
+
+uwsgi --ini uwsgi_conf.ini
+sudo uwsgi --http :80  --ini uwsgi_conf.ini -d ./uwsgi.log --pidfile=uwsgi.pid
+–http指定用80端口启动http协议
+–ini 指定上述的启动配置文件
+-d指定uwsgi的log，方便我们调试
+–pidfile将启动的进程号写到uwsgi.pid文件中，方便我们在需要停止服务器时kill掉
+启动后查看uwsgi.log，如果一切正常，就在浏览器内访问:
+http://127.0.0.1:5800
+会输出hello world,表明此时uwsgi工作正常。
+
+再以socket形式(默认)，启动uwsgi:
+
+uwsgi --ini uwsgi_conf.ini
+
+socket端口为配置文件中的端口:5000.
+
+接下来配置nginx转发请求到uwsgi。
+为了项目的完整性，将nginx下的conf文件拷贝到我们的项目目录中，然后修改nginx的配置文件。
+server {
+        listen       8888;
+        server_name  localhost;
+        location / {
+            include uwsgi_params;
+            uwsgi_pass  127.0.0.1:5000;  #uwsgi socket = 127.0.0.1:5000
+            }
+}
+uwsgi_params在nginxconf文件夹下自带，uwsgi_pass一定要跟uwsgi_conf.ini中写的地址完全一致
+
+nginx -p /home/admin/test -g "pid nginx.pid;"
+sudo nginx -p /Users/junzhao/python/pythonNote/leanrPy3/src/flasktest -g "pid nginx.pid;"
+
+-p:执行的目录（nginx在此目录下找conf文件夹，并加载nginx.conf文件）
+-g:nginx指令，pid创建pid为nginx.pid号的进程(方便我们kill)
+至此，我们已经可以通过nginx8888端口转发uwsgi，进行访问应用程序。
+需要重启时：
+nginx:
+kill -9 nginx.pid
+uwsgi:
+uwsgi --stop uwsgi.pid
+
+
+
+<uwsgi>
+<socket>127.0.0.1:5000</socket>
+<callable>app</callable> #test.py application对象的名字
+<wsgi-file>testapp.py</wsgi-file>
+<module>testapp</module>
+<process>4</process>
+</uwsgi>
+
+uwsgi -x myapp_config.xml -d uwsgi.log
+
+
+查看端口占用
+sudo lsof -i :9000
+sudo kill -9 716
+
+1. 查看80端口占用
+   netstat -ntpl
+2. 杀掉占用80端口的进程
+kill -9 $pid
+
+
+
+
+
+gunicorn+nginx部署
+
+gunicorn -w 4 -b 127.0.0.1:8000 wsgi:application
+server {
+        listen 80;
+        server_name adisonhyh.com;
+
+        location / {
+                proxy_pass http://127.0.0.1:8000;
+                proxy_set_header Host $host;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        }
+}
+监听http默认的端口号80
+server_name：个人网站域名
+把请求代理到本机的8000端口（gunicorn启动服务指定的端口） 剩下proxy_set_header照抄
+
+
+
+
+
+
+
+

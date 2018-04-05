@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54d643dd-0443-49af-869b-cb55796a8784" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/android/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/android/june_class.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/android/person.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/android/table_person.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/Class.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/ClassABC.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/ClassABCD.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/ControlFlow.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/DataType.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/FileTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/Function.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/ImportClass.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/JsonTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/MysqlTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/Persion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/StringTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/hello.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/jingru_8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/new_learn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/new_learn2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/rege.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/set_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/test.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/basic/basic/tryTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fabricLearn/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fabricLearn/fabfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fir/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fir/agent.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fir/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fir/uploadfirim.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/basic/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/basic/flasktest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/app_web.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/database_config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/flask_config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/indexapp.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/june_flask.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/score_dao.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/score_model.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/templates/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/test_conf.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/user_dao.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/user_model.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/uwsgi.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/uwsgi.pid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/uwsgi_conf.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/flask/flaskapp/部署doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/imagePIL/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/imagePIL/image.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pymogoLearn/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pymogoLearn/mongotest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/items.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/middlewares.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/pipelines.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/spiders/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/spiders/jobbole.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/articleSpider/scrapy.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/basic/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/basic/first.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/basic/rege_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/basic/regtest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/scrapyLearn/scrapy_doc.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/lxml/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/lxml/parsexxx.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/MogoQueue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/error.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/meizi.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/meizi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/meizi_model.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/mzitu_crawler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/spider/meizi/queue_main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/TimeTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/timechs4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/timesch1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/timesch2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/timesch3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/timer/timesch5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/wordcloud/WordCloud.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/wordcloud/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/wordcloud/niuzaihenmang.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/wordcloud/wordcloud.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/wordcloud/锐字工房云字库行楷GBK.ttf" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonLearn$app_web.coverage" NAME="app_web Coverage Results" MODIFIED="1522914878889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/flask/flaskapp" />
+    <SUITE FILE_PATH="coverage/PythonLearn$main.coverage" NAME="main Coverage Results" MODIFIED="1522912373807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/scrapyLearn/articleSpider" />
+    <SUITE FILE_PATH="coverage/PythonLearn$june_class.coverage" NAME="june_class Coverage Results" MODIFIED="1522912648557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/basic/android" />
+    <SUITE FILE_PATH="coverage/PythonLearn$parsexxx.coverage" NAME="parsexxx Coverage Results" MODIFIED="1522913256411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider/lxml" />
+    <SUITE FILE_PATH="coverage/PythonLearn$regtest.coverage" NAME="regtest Coverage Results" MODIFIED="1522912037227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/scrapyLearn" />
+    <SUITE FILE_PATH="coverage/PythonLearn$rege_demo.coverage" NAME="rege_demo Coverage Results" MODIFIED="1522912048232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/scrapyLearn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app_web.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/app_web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/database_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wordcloud/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="niuzaihenmang.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wordcloud/niuzaihenmang.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCloud.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wordcloud/WordCloud.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_conf.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/test_conf.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexapp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/indexapp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_dao.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/user_dao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/user_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/scrapyLearn/articleSpider/ArticleSpider/spiders/jobbole.py" />
+        <option value="$PROJECT_DIR$/src/basic/hello.py" />
+        <option value="$PROJECT_DIR$/src/basic/basic.md" />
+        <option value="$PROJECT_DIR$/src/basic/basic/ImportClass.py" />
+        <option value="$PROJECT_DIR$/src/basic/fabfile/fabfile.py" />
+        <option value="$PROJECT_DIR$/src/fabricLearn/fabfile.py" />
+        <option value="$PROJECT_DIR$/src/fir/test.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskMysql/app.py" />
+        <option value="$PROJECT_DIR$/src/imagePIL/image.py" />
+        <option value="$PROJECT_DIR$/src/basic/mogotest/mongotest.py" />
+        <option value="$PROJECT_DIR$/src/timer/timechs4.py" />
+        <option value="$PROJECT_DIR$/src/basic/meizi/meizi.py" />
+        <option value="$PROJECT_DIR$/src/spider/meizi/meizi.py" />
+        <option value="$PROJECT_DIR$/src/spider/meizi/mzitu_crawler.py" />
+        <option value="$PROJECT_DIR$/src/spider/meizi/queue_main.py" />
+        <option value="$PROJECT_DIR$/src/basic/flasktest/app_web.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/app_web.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/flask_config.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/score_dao.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/score_model.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/user_dao.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/user_model.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/testapp.py" />
+        <option value="$PROJECT_DIR$/src/flask/flaskapp/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/wordcloud/WordCloud.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="9" />
+    <option name="y" value="23" />
+    <option name="width" value="1256" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/flask" />
+      <recent name="$PROJECT_DIR$/src/basic/basic" />
+      <recent name="$PROJECT_DIR$/src/spider" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/imagePIL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/wordcloud" />
+      <recent name="$PROJECT_DIR$/src/basic" />
+      <recent name="$PROJECT_DIR$/src/scrapyLearn/articleSpider" />
+      <recent name="$PROJECT_DIR$/src/scrapyLearn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app_web">
+    <configuration name="app_web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/flask/flaskapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/flask/flaskapp/app_web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="june_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/basic/android" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/basic/android/june_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/scrapyLearn/articleSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/scrapyLearn/articleSpider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="parsexxx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/spider/lxml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/spider/lxml/parsexxx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="rege_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/scrapyLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/scrapyLearn/basic/rege_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.rege_demo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.june_class" />
+      <item index="3" class="java.lang.String" itemvalue="Python.parsexxx" />
+      <item index="4" class="java.lang.String" itemvalue="Python.app_web" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.app_web" />
+        <item index="1" class="java.lang.String" itemvalue="Python.parsexxx" />
+        <item index="2" class="java.lang.String" itemvalue="Python.june_class" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.rege_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d643dd-0443-49af-869b-cb55796a8784" name="Default" comment="" />
+      <created>1522911919724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522911919724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="9" y="23" width="1256" height="776" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/basic/basic/Persion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/basic/rege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/basic/set_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/basic/StringTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/basic/tryTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/basic/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fabricLearn/fabfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fir/uploadfirim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#102#117#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/lxml/parsexxx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/basic/flasktest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskMysql/mysql_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskMysql/category_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskMysql/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imagePIL/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-698">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#131#140#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fir/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fir/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pymogoLearn/mongotest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding>
+            <element signature="e#560#571#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/TimeTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#122#137#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/timechs4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/timesch1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/timesch2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/timesch3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/oss/upload_oss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timer/timesch5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#113#140#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/doc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="45" lean-forward="false" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/meizi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1919">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/meizi_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2361">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#146#157#0" expanded="false" />
+            <marker date="1517833462000" expanded="true" signature="735:894" ph="create table... if" />
+            <marker date="1517833462000" expanded="true" signature="1813:1858" ph="insert into meizi... " />
+            <marker date="1517833462000" expanded="true" signature="1880:1916" ph="select * fro... meizi" />
+            <marker date="1517833462000" expanded="true" signature="2468:2511" ph="update meizi... " />
+            <marker date="1517833462000" expanded="true" signature="2948:2987" ph="update meizi... " />
+            <marker date="1517833462000" expanded="true" signature="3434:3470" ph="select * fro... meizi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/MogoQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1222">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/queue_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/upload_aliyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider/meizi/mzitu_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="70" column="27" lean-forward="false" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/部署doc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/uwsgi_conf.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/uwsgi.pid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/uwsgi.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/flask_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/june_flask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/score_dao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <marker date="1522914711000" expanded="true" signature="0:179" ph="import ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/score_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/test_conf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/user_dao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/user_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/indexapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/app_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask/flaskapp/database_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wordcloud/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wordcloud/niuzaihenmang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wordcloud/WordCloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
